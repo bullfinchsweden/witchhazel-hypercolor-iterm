@@ -1,7 +1,7 @@
 # Witch Hazel (Hypercolor) iTerm
 Witch Hazel Hypercolor for iTerm2.
 
-<img width="103" height="77" alt="Witch" src="https://github.com/user-attachments/assets/f3b12b75-b764-4c77-9424-c5271012a38d" /><br/>
+<img width="103" height="77" alt="Witch" src="https://github.com/user-attachments/assets/e0572b53-2b25-4ff1-9764-447f1b7a7d00" /><br/>
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
