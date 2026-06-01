@@ -5,9 +5,7 @@ Witch Hazel Hypercolor for iTerm2.
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
-* [Witch Hazel color scheme](https://witchhazel.thea.codes/)
-
-* [Witch Hazel for Firefox](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/)<br/>
+* [Witch Hazel color scheme](https://witchhazel.thea.codes/)<br/>
 
 *Witch Hazel Hypercolor.itermcolors*
 
