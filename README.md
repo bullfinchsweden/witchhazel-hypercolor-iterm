@@ -1,7 +1,7 @@
 # Witch Hazel (Hypercolor) iTerm
 Witch Hazel Hypercolor for iTerm2.
 
-<img src="Images/Witch.png"><br/>
+<img src="Images/iTerm.jpg"><br/>
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
