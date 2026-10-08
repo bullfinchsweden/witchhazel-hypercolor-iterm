@@ -7,6 +7,8 @@ Witch Hazel Hypercolor for iTerm2.
 
 * [Witch Hazel](https://witchhazel.thea.codes/)<br/>
 
+<img src="Images/WitchHazel.jpg" width="768" height="320" /><br/>
+
 *Witch Hazel Hypercolor.itermcolors*
 
 <img src="Images/WitchHazelHypercoloriTerm1.png" width="260" height="82" /><br/>
