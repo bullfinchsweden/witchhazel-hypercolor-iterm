@@ -1,4 +1,4 @@
-# Witch Hazel (Hypercolor) iTerm 🧙🏻‍♀️
+# Witch Hazel (Hypercolor) iTerm
 Witch Hazel Hypercolor for iTerm2.
 
 <img src="Images/iTerm.jpg"><br/>
