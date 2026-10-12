@@ -11,6 +11,4 @@ Witch Hazel Hypercolor for iTerm2.
 
 *Witch Hazel Hypercolor.itermcolors*
 
-<img src="Images/WitchHazelHypercoloriTerm1.png" width="260" height="82" /><br/>
-
-<img src="Images/WitchHazelHypercoloriTerm2.png" width="785" height="399" />
+<img src="Images/WitchHazelHypercoloriTerm.png" width="764.5" height="376.5" />
